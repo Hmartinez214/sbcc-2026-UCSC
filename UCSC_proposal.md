@@ -4,7 +4,7 @@
 
 ## Diagram
 
-<img src="sbcc_hardware_UCSC2026.drawio.png" alt="Diagram" height="200"/>
+<img src="sbcc_hardware_UCSC2026part2.drawio.png" alt="Diagram" height="200"/>
 
 ## Hardware
 

@@ -12,6 +12,7 @@ We originally expected to recieve \$6k in funding instead of having a \$6k budge
 
 ### Power monitoring
 
+We will be monitoring power by routing all consumption through a smart outlet.
 
 ### Hardware Table 
 
